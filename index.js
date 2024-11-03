@@ -38,7 +38,7 @@ year = currentYear - birthYear;
 
 if(year<0  )
 {
-    ageText.innerHTML = "kya mazak kar rhe ho yaar, sahi date dalo";
+    ageText.innerHTML = "Kya ho gaya yaar? Sahi date daalo, chalo ek baar aur!";
 }
 else
 {
