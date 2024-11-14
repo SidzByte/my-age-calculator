@@ -18,7 +18,8 @@ Hey there! 👋 Welcome to the **Age Calculator** project. This is a simple web 
 
 Check out what it looks like:
 
-![Screenshot 2024-11-13 143728](https://github.com/user-attachments/assets/c8dbc3c0-46b5-4b92-b7a9-89de5953a1cb)
+![Screenshot 2024-11-13 143728](https://github.com/user-attachments/assets/e4f63e70-4e17-4083-b9ba-b7afc52185e3)
+
 
 
 ## 📂 Project Structure
